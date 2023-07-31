@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/mel/Workspace/REPOSITORIOS/OnlyCats/env"
+VIRTUAL_ENV="/home/mel/Workspace/REPOSITORIOS/python_front/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
